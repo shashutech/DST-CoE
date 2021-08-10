@@ -296,6 +296,7 @@
         var swiper = new Swiper('.testimonial-slider', {
           spaceBetween: 0,
           freeMode: false,
+          autoplay: 5000,
           loop: true,
           pagination: {
             el: '.swiper-pagination',
@@ -316,6 +317,7 @@
         var swiper = new Swiper('.testimonial-slider-two', {
           spaceBetween: 0,
           freeMode: false,
+          autoplay: 5000,
           loop: true,
         });
       }

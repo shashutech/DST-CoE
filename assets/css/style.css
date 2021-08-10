@@ -184,6 +184,9 @@ h4 a:hover {
   padding-bottom: 15px;
   border-bottom: 1px solid #e1e1e1;
 }
+.text-justify {
+  text-align: justify;
+}
 @media only screen and (max-width: 1199px) {
   .section-heading {
     font-size: 32px;
